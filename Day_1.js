@@ -1,5 +1,5 @@
 // Question
-Given the JavaScript code below, what will be the final value of result?
+// Given the JavaScript code below, what will be the final value of result?
 const arr = [1, 2, 3, 4, 5];
 
 const result = arr
